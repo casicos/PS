@@ -1,5 +1,7 @@
 [#10809. 알파벳 찾기](https://www.acmicpc.net/problem/10809)
+[![solve](https://img.shields.io/badge/solve-success-brightgreen)](https://github.com/casicos/PS/tree/master/acmicpc.net/10809)
 [![trial](https://img.shields.io/badge/trial-at%20once-brightgreen)](https://github.com/casicos/PS/tree/master/acmicpc.net/10809)
+[![difficulty](https://img.shields.io/badge/difficulty-easy-brightgreen)](https://github.com/casicos/PS/tree/master/acmicpc.net/10809)
 ---------------------------
 ## 문제 (Problem)
 > 알파벳 소문자로만 이루어진 단어 S가 주어진다. 각각의 알파벳에 대해서, 단어에 포함되어 있는 경우에는 처음 등장하는 위치를, 포함되어 있지 않은 경우에는 -1을 출력하는 프로그램을 작성하시오.
