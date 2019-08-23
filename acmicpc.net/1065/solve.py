@@ -5,10 +5,10 @@ if _input < 100:
 else:
     counter = 99
     i: int
-    for i in range(100, _input):
-        a = i // 100 % 10
-        b = i // 10 % 10
-        c = i % 10
+    for i in range(100, _input + 1):
+        a = i // 100
+        b = (i % 100) // 10
+        c = (i % 10)
 
         if a - b is b - c:
             counter += 1

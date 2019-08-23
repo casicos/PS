@@ -1,6 +1,6 @@
 [#1065. 한 수](https://www.acmicpc.net/problem/1065)  
-[![solve](https://img.shields.io/badge/solve-not%20tried-yellow)](https://github.com/casicos/PS/tree/master/acmicpc.net/1065)
-[![trial](https://img.shields.io/badge/trial-none-yellow)](https://github.com/casicos/PS/tree/master/acmicpc.net/1065)
+[![solve](https://img.shields.io/badge/solve-success-brightgreen)](https://github.com/casicos/PS/tree/master/acmicpc.net/1065)
+[![trial](https://img.shields.io/badge/trial-at%20twice-green)](https://github.com/casicos/PS/tree/master/acmicpc.net/1065)
 [![difficulty](https://img.shields.io/badge/difficulty-easy-brightgreen)](https://github.com/casicos/PS/tree/master/acmicpc.net/1065)
 ---------------------------
   
